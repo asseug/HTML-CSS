@@ -1,0 +1,30 @@
+.container{
+    propriedade:value;
+}
+
+.perfil{
+
+}
+
+.perfil img{
+    height: 30px;
+    width: 30px; 
+
+
+}
+
+h1{
+    color: brown;
+}
+.links{
+    propriedade:valor;
+}
+.links li{
+    propriedade :valor;
+}
+.links li a {
+    propriedade: valor;
+}
+.links li a:hover{
+    Propriedade:valor
+}
